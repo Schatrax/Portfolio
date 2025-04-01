@@ -67,6 +67,7 @@ I am currently exploring python, cloud technologies, AWS, and machine learning t
 - **Python for Everybody** (FreeCodeCamp.org)
 - **Agile for One** (Pluralsight)
 - **ISTQB Foundation Level Knowledge**
+- **Advanced Feedback Techniques Training - STAR/AR method** (Miniclip)
 
 ---
 
